@@ -1,10 +1,5 @@
 @import url(fontawesome-all.min.css);
 
-/*
-	Hyperspace by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -3143,6 +3138,37 @@ div.contentcarr {
 				opacity: 1;
 			}
 
+			.spotlights > section > .content2 {
+			padding-top: .5em;
+			padding-left: 1.5em;
+			display: -moz-flex;
+			display: -webkit-flex;
+			display: -ms-flex;
+			display: flex;
+			-moz-flex-direction: column;
+			-webkit-flex-direction: column;
+			-ms-flex-direction: column;
+			flex-direction: column;
+			-moz-justify-content: center;
+			-webkit-justify-content: center;
+			-ms-justify-content: center;
+			justify-content: center;
+			width: 50em;
+			-ms-flex: 1;
+		}
+
+			.spotlights > section > .content2 > .inner {
+				-moz-transform: translateX(0) translateY(0);
+				-webkit-transform: translateX(0) translateY(0);
+				-ms-transform: translateX(0) translateY(0);
+				transform: translateX(0) translateY(0);
+				-moz-transition: opacity 1s ease, -moz-transform 1s ease;
+				-webkit-transition: opacity 1s ease, -webkit-transform 1s ease;
+				-ms-transition: opacity 1s ease, -ms-transform 1s ease;
+				transition: opacity 1s ease, transform 1s ease;
+				opacity: 1;
+			}
+
 		.spotlights > section:nth-child(2) {
 			background-color: rgba(0, 0, 0, 0.05);
 		}
@@ -3350,6 +3376,10 @@ div.contentcarr {
 		.wrapper.style5 {
 			background-color: #7b797a !important;
 			min-height: 4em;
+		}
+
+		.wrapper.style6 {
+			background-color: #403C3D !important;
 		}
 
 		.wrapper.fullscreen {
@@ -4035,4 +4065,31 @@ div.contentcarr {
     overflow:visible!important;
     float:none!important;
   }
+}
+
+li.iconsinfo{
+	padding: 1em 2em 1.5em;
+	font-size: 12pt;
+}
+
+span.listicon{
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  border: 1px solid #ffffff;
+  border-radius: 100px;
+  width: 50px;
+  height: 50px;
+  border: solid 1px #FFF;
+  border-radius: 50%;
+  color: #ff871d;
 }
