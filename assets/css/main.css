@@ -4121,7 +4121,7 @@ p.footertxt{
 .masde{
 	border-radius: 50%;
 	border: solid 1px #ff871d;
-	background-color: rgba(255, 135, 29, 0.1);
+	background-color: rgba(255, 135, 29, 0.04);
 	width: 6em !important;
 	height: 6em !important;
 	margin: 0 2em;
@@ -4138,4 +4138,13 @@ p.footertxt{
 .masde p{
 	color: #fff;
 	line-height: 0px;
+}
+
+h6.mailinfo a {
+	color: #757575;
+	font-size: 1.3em !important;
+}
+
+h6.mailinfo a:hover{
+	color: #ff871d;
 }
