@@ -2830,7 +2830,7 @@ div.contentcarr {
 }
 
 .slider {
-	height: auto;
+	height: 14vh;
 	margin: auto;
 	overflow:hidden;
 	position: relative;
@@ -4039,6 +4039,11 @@ div.contentcarr {
 	width: 35%;
 }
 
+.payment{
+	margin: 0 auto;
+	width: 50vw !important;
+}
+
 @media screen and (max-width: 700px) {
 .hide-on-mobile{
     display:none!important;
@@ -4059,6 +4064,10 @@ div.contentcarr {
 
   .logoDnis{
 	width: 100%;
+	}
+
+	.payment{
+	width: 100vw !important;
 	}
 }
 
@@ -4148,3 +4157,8 @@ h6.mailinfo a {
 h6.mailinfo a:hover{
 	color: #ff871d;
 }
+
+a.privacidad:hover{
+	color: #757575;
+}
+
