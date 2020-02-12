@@ -4044,6 +4044,10 @@ div.contentcarr {
 	width: 50vw !important;
 }
 
+a.iconpriv img.logoDnis{
+	width: 15%;
+}
+
 @media screen and (max-width: 700px) {
 .hide-on-mobile{
     display:none!important;
@@ -4069,6 +4073,10 @@ div.contentcarr {
 	.payment{
 	width: 100vw !important;
 	}
+
+	a.iconpriv img.logoDnis{
+	width: 50%;
+}
 }
 
 li.iconsinfo{
@@ -4160,5 +4168,22 @@ h6.mailinfo a:hover{
 
 a.privacidad:hover{
 	color: #757575;
+}
+
+.txtpriv *{
+	text-align: left !important;
+}
+
+.txtpriv h4{
+	color: #ff871d;
+}
+
+.txtpriv p{
+	color: #231f20;
+	font-size: .8em !important;
+}
+
+.txtpriv p > b{
+	color: #231f20;
 }
 
