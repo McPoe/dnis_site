@@ -4,17 +4,17 @@
 	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1000 500"
 	 style="enable-background:new 0 0 1000 500;" xml:space="preserve">
 <style type="text/css">
-	.st0{opacity:0.4;fill:none;stroke:#F68725;stroke-width:0.5;stroke-miterlimit:10;}
+	.st0{opacity:0.4;fill:none;stroke:#F68725;stroke-width:0.5484;stroke-miterlimit:10;enable-background:new    ;}
 </style>
-<line class="st0" x1="1100" y1="500" x2="-1000" y2="250"/>
-<line class="st0" x1="1100" y1="500" x2="-1000" y2="-100"/>
-<line class="st0" x1="1100" y1="500" x2="-1000" y2="-500"/>
-<line class="st0" x1="1100" y1="500" x2="-250" y2="-500"/>
-<line class="st0" x1="1100" y1="500" x2="300" y2="-500"/>
-<line class="st0" x1="1100" y1="500" x2="750" y2="-500"/>
-<line class="st0" x1="1750" y1="0" x2="750" y2="500"/>
-<line class="st0" x1="1500" y1="0" x2="500" y2="500"/>
-<line class="st0" x1="1150" y1="0" x2="150" y2="500"/>
-<line class="st0" x1="700" y1="0" x2="-300" y2="500"/>
-<line class="st0" x1="150" y1="0" x2="-850" y2="500"/>
+<line class="st0" x1="2287.7" y1="246.1" x2="-15.5" y2="520.2"/>
+<line class="st0" x1="2287.7" y1="-137.8" x2="-15.5" y2="520.2"/>
+<line class="st0" x1="2287.7" y1="-576.5" x2="-15.5" y2="520.2"/>
+<line class="st0" x1="1465.1" y1="-576.5" x2="-15.5" y2="520.2"/>
+<line class="st0" x1="861.9" y1="-576.5" x2="-15.5" y2="520.2"/>
+<line class="st0" x1="368.3" y1="-576.5" x2="-15.5" y2="520.2"/>
+<line class="st0" x1="368.3" y1="520.2" x2="-728.4" y2="-28.1"/>
+<line class="st0" x1="642.5" y1="520.2" x2="-454.2" y2="-28.1"/>
+<line class="st0" x1="1026.4" y1="520.2" x2="-70.4" y2="-28.1"/>
+<line class="st0" x1="1519.9" y1="520.2" x2="423.2" y2="-28.1"/>
+<line class="st0" x1="2123.2" y1="520.2" x2="1026.4" y2="-28.1"/>
 </svg>
