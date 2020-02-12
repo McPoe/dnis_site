@@ -209,6 +209,10 @@ input, select, textarea {
 				width: 100%;
 			}
 
+			.major img {
+				height: inherit;
+		}
+
 	h2 {
 		font-size: 1.75em;
 	}
